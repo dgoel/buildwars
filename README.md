@@ -44,6 +44,7 @@ modified to add bazel support among other things.
 
 ## Comparison
 
-Here is the build time comparison for 2500 sources.
+Here is the build time comparison for 2500 sources on i7-8550U (thinkpad 480s)
+with ubuntu 18.04.
 
 ![](comparison.png)
